@@ -1,4 +1,5 @@
 # Straight-Teeth-Gear
+A simple tool for the design of Straight teeth wheels and gears.
 # About the project
 Straight-teeth-gear.py is a tool that permits the design of a Straight teeth wheels and gears. The code is written in python3 and it permits to save the wheels geometries in dxf format..
 
