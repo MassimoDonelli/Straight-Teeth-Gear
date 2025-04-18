@@ -6,11 +6,11 @@ Straight-teeth-gear.py is a tool that permits the design of a Straight teeth whe
 
 The tool permits the design of the following wheels:
  -------------------------------------------------------------
-W   -  Single wheel design you must insert  \\
-	1) Pressure angle theta, \\
-	2) wheel module m \\
-	3) theet number Z\\
-	4) axis diameter\\
+W   -  Single wheel design you must insert  
+	1) Pressure angle theta, 
+	2) wheel module m 
+	3) theet number Z
+	4) axis diameter
 G  -  Driven and conducted wheels design you must insert:
 	1) Transmission ratio R=Z2/Z1
 	2) Pressure angle theta, 
